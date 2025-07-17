@@ -25,12 +25,19 @@ Seclog is a Python-based GUI tool for analyzing Windows Event Logs in real time.
 ## 🗂 Project Structure
 LogKit/
 ├── .venv/ # Virtual environment
+
 ├── build/ # PyInstaller build artifacts
+
 ├── dist/ # Distribution-ready .exe
+
 ├── output/ # Installer or export outputs
+
 ├── SecLog.py # Main application
+
 ├── SecLog.spec # PyInstaller spec file
+
 ├── secLog_installer.iss # Inno Setup script
+
 ├── secLog_icon.ico # App icon
 
 
